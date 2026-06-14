@@ -76,6 +76,9 @@ docker run -d -p 3000:80 --name hacker-1-server hacker-1-from-image:v1
 
 
 <br />
+
+<img src="hack1.png" alt="hack1" width="200"/>
+
 <br />
 
 ## 🏆 H-2 (usar apt con el estilo correcto en docker)
