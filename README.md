@@ -74,9 +74,8 @@ docker images
 docker run -d -p 3000:80 --name hacker-1-server hacker-1-from-image:v1
 ```
 
-# Solucion H1
-<br />
 
+<br />
 
 <img src="hack1.png" alt="hack1" width="90%" height=""/>
 <img src="hack1ngix.png" alt="hack1n" width="90%" >
@@ -147,6 +146,10 @@ docker run -d -p 5000:80 --name hacker-2-server hacker-2-apt:v1
 ```
 
 <br />
+
+<img src="hack2.png" alt="hack2" width="90%">
+<img src="hack2ngix.png" alt="hack2" width="90%">
+
 <br />
 
 ## 🏆 H-3 (Usuario no root)
@@ -268,6 +271,11 @@ docker images
 docker run -d -p 8080:8080 --name hacker-3-server hacker-3-no-root:v1
 ```
 
+<img src="hack3.png" alt="hack3" width="90%">
+
+<img src="hack3flask.png" alt="hack3" width="50%">
+
+<img src="hack3-result.png" alt="hack3" width="50%">
 
 
 ---
