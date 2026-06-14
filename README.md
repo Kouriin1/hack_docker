@@ -78,8 +78,8 @@ docker run -d -p 3000:80 --name hacker-1-server hacker-1-from-image:v1
 <br />
 # Solucion H1
 
-<img src="hack1.png" alt="hack1" width="400" height="300"/>
-<img src="hack1ngix.png" alt="hack1n" width="400" height="300">
+<img src="hack1.png" alt="hack1" width="400" height="90%"/>
+<img src="hack1ngix.png" alt="hack1n" width="90%" >
 
 <br />
 
